@@ -1,4 +1,7 @@
 {
-  "expo": {}
+  "expo": {
+    "name": "Your App Display Name",
+    "slug": "your-app-url-slug",
+    "version": "1.0.0"
+  }
 }
-
